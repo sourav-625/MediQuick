@@ -1,4 +1,4 @@
-# MediBot - AI Based Medical Diagnosis
+# MediQuick - AI Based Medical Diagnosis
 
 ## Overview
 This Python-based Medical Diagnosis App allows users to input their symptoms, which are then processed by an AI-powered chatbot (using OpenAI's GPT-4 model) to provide a diagnosis, clinical evaluation, and referral suggestions. The app helps users track their symptoms, summarize their condition, and potentially generate reports based on the diagnosis.
